@@ -25,7 +25,7 @@ storage.setState({
   role: "",
 });
 
-const base_url = "http://localhost:3000";
+const base_url = "http://node59903-pdstadium.proen.app.ruk-com.cloud";
 
 app.set("views", path.join(__dirname, "/public/views"));
 app.set("view engine", "ejs");
